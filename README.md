@@ -3,7 +3,7 @@ Machine Learning Exam Project: The goal is to propose a method for leaf identifi
 
 ## Todo:
 
-- MICHELE: effectiveness indexes (scegliere quale usare) ✅
+- MICHELE: choice of effectiveness indexes ✅
 - ELENA: cross validation: inner outer (probabilmente sara: stratified e il numero dei fold è tale che non abbiamo fold vuoti rispetto a una classe)
 - SAMUELE: vedere di sistemare la stadardizzazione ✅
 
