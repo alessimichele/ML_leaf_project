@@ -8,9 +8,9 @@ Machine Learning Exam Project: The goal is to propose a method for leaf identifi
 - SAMUELE: vedere di sistemare la stadardizzazione ✅
 
 - scegliere gli iperparametri di:
-        -- ELENA: albero (aggiungere albero singolo all'inizio) + RF (max_features + quanti alberi?) + kNN
-        -- MICHELE: SVM (linear) ✅
-        -- SAMUELE: SVM (gauss) ✅
+        - ELENA: albero (aggiungere albero singolo all'inizio) + RF (max_features + quanti alberi?) + kNN
+        - MICHELE: SVM (linear) ✅
+        - SAMUELE: SVM (gauss) ✅
 
 
 - analisi variabili ???
